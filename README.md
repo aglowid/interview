@@ -1,6 +1,6 @@
-Task: Build an online reviews website
+# Task: Build an online reviews website #
 
-***Note**: Please spend about 5 hours or less on this project.  We don't expect you to come close to finishing this; instead, we are looking to see how you implement features.*
+**Note** _ Please spend about 5 hours or less on this project.  We don't expect you to come close to finishing this; instead, we are looking to see how you implement features. _
 
 Implement a Rails application that allows users to review movies.  After logging in, a user should be able to leave a review of 1-10 on that movie, and an optional comment.  Reviews are displayed on a movie's page as a list on chronological order.
 
