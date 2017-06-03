@@ -6,7 +6,7 @@ Implement a Rails application that allows users to review movies.  After logging
 
 You'll need to import some movies for users to review.  In this project you'll find a CSV of recent movies: [recent_movies.csv](https://github.com/superlabs/interview/blob/master/recent_movies.csv)
 
-For the stack, please use Rails 5 + jQuery + Neo4j.  For Rails, I would highly recommend you use Devise + Devise-neo4j + Neo4jrb + Turbolinks.
+For the stack, please use Rails 5 + jQuery.  For Rails, I would highly recommend you use Rails + Devise + Turbolinks.
 
 If you feel the need to try for some extra functionality, here is a list of nice-to-have features:
 
